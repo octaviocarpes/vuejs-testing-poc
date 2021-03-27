@@ -1,8 +1,8 @@
-<template src="./index.html">
+<template src="template.html">
 </template>
 
-<script src="./index.js">
+<script src="script.js">
 </script>
 
-<style src="./index.scss" lang="scss">
+<style src="styles.scss" lang="scss">
 </style>
